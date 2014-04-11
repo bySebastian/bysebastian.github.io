@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My little coding blog]]></title>
+  <link href="http://bysebastian.github.io/atom.xml" rel="self"/>
+  <link href="http://bysebastian.github.io/"/>
+  <updated>2014-04-12T01:15:20+02:00</updated>
+  <id>http://bysebastian.github.io/</id>
+  <author>
+    <name><![CDATA[Sebastian Vyaene]]></name>
+    <email><![CDATA[creativity@madebysebastian.be]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post!]]></title>
+    <link href="http://bysebastian.github.io/blog/2014/04/12/first-post/"/>
+    <updated>2014-04-12T00:41:29+02:00</updated>
+    <id>http://bysebastian.github.io/blog/2014/04/12/first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
